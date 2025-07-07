@@ -1,0 +1,51 @@
+# Introduction to GitHub
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+
+Hey @NishchithGowda here. I'm done preparing your exercise. Hope you enjoy! 
+Welcome to "Introduction to GitHub"! 👋
+
+What is GitHub?: GitHub is a collaboration platform that uses Git for versioning.
+GitHub is a popular place to share and contribute to open-source software.
+
+📺 Video: What is GitHub?
+
+What is a repository?: A repository is a project containing files and folders.
+A repository tracks versions of files and folders. For more information, see
+"About repositories" from GitHub Docs.
+
+What is a branch?: A branch is a parallel version of your repository.
+By default, your repository has one branch named main and it is considered to be the definitive branch.
+Creating additional branches allows you to copy the main branch of your repository and safely make any changes without disrupting the main project.
+Many people use branches to work on specific features without affecting any other parts of the project.
+
+Branches allow you to separate your work from the main branch.
+In other words, everyone's work is safe while you contribute.
+For more information, see "About branches".
+
+What is a profile README?: A profile README
+is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com.
+GitHub shows your profile README at the top of your profile page. For more information, see "Managing your profile README".
+
+screenshot showing an example profile readme
+
+⌨️ Activity: Your first branch
+Open a new browser tab and navigate to your newly made repository (your copy of this exercise). Then, work on the steps in your second tab while you read the instructions in this tab.
+
+Navigate to the < > Code tab in the header menu of your repository.
+
+screenshot highlighting the code tab
+
+Click on the main branch drop-down.
+
+screenshot highlighting the branch selection
+In the text box Find or create a branch..., enter my-first-branch.
+
+Note: This is checked to continue with the next step. 😉
+
+Click the text Create branch: my-first-branch from main to create your branch.
+
+screenshot highlighting the create branch prompt
+The branch will automatically switch to the one you just created.
+The main branch drop-down menu will display your new branch name.
+Now that your branch is pushed to GitHub, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson
